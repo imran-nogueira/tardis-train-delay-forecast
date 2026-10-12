@@ -1,6 +1,4 @@
-# TARDIS — SNCF Train Delay Prediction
-
-> Predicting the average arrival delay of French long-distance trains per route and month, with a Random Forest model and an interactive Streamlit dashboard.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="TARDIS — Forecasting French long-distance train delays per route and month, with an interactive dashboard." src="assets/banner-light.png"></picture>
 
 **Epitech Bachelor · Year 1 · Data module (B-DAT-200) · Feb 2026**
 Source code is private under Epitech's academic policy. Happy to walk you through it or demo the dashboard → **imran.nogueira@gmail.com**
